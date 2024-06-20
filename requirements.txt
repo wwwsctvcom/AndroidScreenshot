@@ -1,0 +1,6 @@
+pypiwin32
+weakref
+psutil
+scrcpy-client
+loguru
+adbutils
