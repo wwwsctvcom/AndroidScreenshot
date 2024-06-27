@@ -1,5 +1,6 @@
 ### AndroidScreenShot
-用于Android手机实时截屏的工具，提供API和使用的demo，主要基于minicap和scrpy工具
+用于Android手机实时截屏的工具，提供API和使用的demo，主要基于minicap和scrpy工具，相关的文件下载好之后需要提前放入asset中
+代码会帮忙检查手机的相关信息，然后push不同的文件进到手机中
 
 ### Related Tool
 #### minicap
